@@ -1,0 +1,22 @@
+name: spain-healthcare-gis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - geopandas
+  - shapely
+  - pyproj
+  - pyogrio
+  - requests
+  - owslib
+  - matplotlib
+  - contextily
+  - folium
+  - libpysal
+  - esda
+  - scipy
+  - networkx
+  - jupyter
+  - ipykernel
