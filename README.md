@@ -53,9 +53,12 @@ Python, GeoPandas, Pandas, PySAL, Folium, Matplotlib, Contextily
    - 04 Join Data and Build Indicators
    - 05 Hotspot Analysis and Maps
 
+
 ## Best recommendations
 - Add travel-time analysis with road networks instead of straight-line distance
 - Split the analysis by region to compare mainland vs island patterns
 - Build a small dashboard or web map
 - Add a time-series version of the index
 - Pair the PNG summary graphic with the interactive HTML map
+
+<img width="1440" height="740" alt="vulnerability_map" src="https://github.com/user-attachments/assets/e8c4d0b9-0f6f-4280-b57c-d76a6c4cd406" />
