@@ -1,0 +1,17 @@
+pandas
+numpy
+geopandas
+shapely
+pyproj
+pyogrio
+requests
+owslib
+matplotlib
+contextily
+folium
+libpysal
+esda
+scipy
+networkx
+jupyter
+ipykernel
